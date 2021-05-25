@@ -1,0 +1,9 @@
+.add-list mat-form-field{
+    width:100%
+}
+mat-error + mat-error {
+    display: none;
+}
+.passwords mat-form-field{
+    border: 2px solid red;
+}
